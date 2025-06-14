@@ -1,0 +1,61 @@
+/* Navbar.module.css */
+
+.navbar {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  background: transparent;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 3rem;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+  z-index: 1000;
+}
+
+.scrolled {
+  background-color: #ffffffdd; /* white with some transparency */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.logo {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #222;
+  cursor: pointer;
+  user-select: none;
+}
+
+.logo:hover {
+  color: #7146b1; /* accent color on hover */
+}
+
+.navLinks {
+  list-style: none;
+  display: flex;
+  gap: 2rem;
+}
+
+.navLinks li a {
+  text-decoration: none;
+  color: #222;
+  font-weight: 500;
+  font-size: 1rem;
+  transition: color 0.2s ease;
+  cursor: pointer;
+}
+
+.navLinks li a:hover {
+  color: #a200f3;
+}
+
+@media (max-width: 768px) {
+  .navbar {
+    padding: 1rem 2rem;
+  }
+
+  .navLinks {
+    gap: 1rem;
+  }
+}
