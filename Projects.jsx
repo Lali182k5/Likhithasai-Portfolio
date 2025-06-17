@@ -17,6 +17,12 @@ export default function Projects() {
         'ML-powered app using Streamlit & Random Forest to predict calorie burn with real-time graphs.',
       link: 'https://github.com/Lali182k5/Personal-Fitness-Tracker',
     },
+     {
+      title: 'ID Card Generator App',
+      description:
+        'The ID Card Generator App is a user-friendly web-based tool designed to create professional and personalized ID cards for schools, colleges, organizations, or events.'      
+      link: 'https://github.com/Lali182k5/Personal-Fitness-Tracker',
+    },
     {
       title: 'Automatic Number Plate Recognition (ANPR)',
       description:
