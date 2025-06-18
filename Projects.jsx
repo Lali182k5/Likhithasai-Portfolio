@@ -17,7 +17,7 @@ export default function Projects() {
         'ML-powered app using Streamlit & Random Forest to predict calorie burn with real-time graphs.',
       link: 'https://github.com/Lali182k5/Personal-Fitness-Tracker',
     },
-     {
+    {
       title: 'ID Card Generator',
       description:
         'A React-based web application that allows users to create customized ID cards by entering personal details, uploading images, and generating a downloadable ID card instantly. Built with responsive design and supports real-time preview of the final ID card.',
