@@ -22,11 +22,11 @@ This is my personal portfolio website built with **Next.js**, **Framer Motion**,
 
 ## 🛠️ Tech Stack
 
-Next.js 15
-Framer Motion
-React
-Modular CSS
-Vercel for deployment
+- Next.js 15
+- Framer Motion
+- React
+- Modular CSS
+- Vercel for deployment
 
 
 ## Contact
