@@ -33,11 +33,11 @@ This is my personal portfolio website built with **Next.js**, **Framer Motion**,
 
 📧 likhithasai182k5@gmail.com
 
-🌐 Portfolio Website
+🌐 Portfolio :[Likhitha Sai Portfolio](https://likhithasai-portfolio-mmiu.vercel.app/)
 
-💼 LinkedIn
+💼 LinkedIn :[LinkedIn](https://www.linkedin.com/in/likhitha-sai-edupalli-50ba5b2a1/)
 
-💻 GitHub
+
 
 
 
