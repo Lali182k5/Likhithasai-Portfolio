@@ -5,7 +5,7 @@ https://likhithasai-portfolio-mmiu.vercel.app/
 
 This is my personal portfolio website built with **Next.js**, **Framer Motion**, and **Modular CSS**. It showcases my projects, skills, and contact information with smooth animations and responsive design.
 
-🔗 **Live Site:** [likhithasai-portfolio.vercel.app](https://likhithasai-portfolio-mmiu.vercel.app/)
+🔗 **Live Site:** [Likhitha Sai Portfolio ](https://likhithasai-portfolio-mmiu.vercel.app/)
 
 ---
 
@@ -20,5 +20,27 @@ This is my personal portfolio website built with **Next.js**, **Framer Motion**,
 
 ---
 
-## 📂 Project Structure
+## 🛠️ Tech Stack
+
+Next.js 15
+Framer Motion
+React
+Modular CSS
+Vercel for deployment
+
+
+## Contact
+
+📧 likhithasai182k5@gmail.com
+
+🌐 Portfolio Website
+
+💼 LinkedIn
+
+💻 GitHub
+
+
+
+
+
 
