@@ -20,7 +20,7 @@ export default function Projects() {
     {
       title: 'ID Card Generator',
       description:
-        'A React-based web application that allows users to create customized ID cards by entering personal details, uploading images, and generating a downloadable ID card instantly. Built with responsive design and supports real-time preview of the final ID card.',
+        'A React app to create and download personalized ID cards from user input and uploaded photos.',
       link: 'https://github.com/Lali182k5/ID-CARD-GENERATOR',
     },
     {
